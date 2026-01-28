@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-navy;
+}
+
+section {
+  @apply scroll-mt-24;
+}
+
+.gradient-border {
+  background: linear-gradient(90deg, #0a2540 0%, #c5a059 100%);
+}
