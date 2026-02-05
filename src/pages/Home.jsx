@@ -14,7 +14,7 @@ export default function Home() {
           />
           <div className="absolute inset-0 bg-navy/60" />
         </div>
-        <div className="relative mx-auto flex min-h-[70vh] w-full max-w-6xl flex-col justify-center px-6 py-20 text-white">
+        <div className="relative mx-auto flex min-h-[70vh] w-full max-w-6xl flex-col justify-center px-6 pb-20 pt-28 text-white lg:pt-32">
           <p className="text-xs font-semibold uppercase tracking-[0.3em] text-gold">
             WealthStem.ca
           </p>
