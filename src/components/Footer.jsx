@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <p className="font-serif text-2xl font-semibold">WealthStem.ca</p>
           <p className="mt-2 text-sm text-slate-200">
-            396 Newport Dr, Cambridge, ON, N3H 5S7
+            100 Milverton Dr #210 Mississauga, L5R 3G2
           </p>
           <p className="text-sm text-slate-200">Toll-Free: 1-800-WEALTH</p>
           <p className="text-sm text-slate-200">Phone/WhatsApp: 905-965-0460</p>
